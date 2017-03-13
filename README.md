@@ -1,2 +1,4 @@
 # LoginWebMVCDemo
-LoginWebMVCDemo Example with JSP/Servlet using MVC Pattern. Posted by ngockhuong.com
+LoginWebMVCDemo Example with JSP/Servlet using MVC Pattern.
+
+Posted by ngockhuong.com
